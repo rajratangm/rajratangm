@@ -45,10 +45,5 @@
 
 <p align="left"></p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rajratangm/count.svg?"  />
-</div>
 
 ###
