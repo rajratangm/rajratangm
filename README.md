@@ -1,61 +1,55 @@
-## 🌟 Hi there, I'm Rajratan 👋
+<h2 align="left">Hi 👋! My name is Rajratan and I'm a ML/AI developer from India</h2>
 
-Welcome to my GitHub profile! I'm a **passionate developer**, a **lifelong learner**, and an **open-source enthusiast** who loves crafting elegant solutions to complex problems.
+###
 
----
-
-### 💻 About Me
-- 🔭 **Currently working on**: Exciting projects in [your tech domain].
-- 🌱 **Learning**: Mastering [technologies/tools you're exploring].
-- 👯 **Looking to collaborate**: Open to contributing to impactful open-source projects.
-- 🧠 **Interests**: Software Development, Data Science, Machine Learning, and Cybersecurity.
-- ⚡ **Fun fact**: I believe coffee powers creativity. ☕✨
-
----
-
-### 🛠️ Tech Stack
-Here are some tools and technologies I love working with:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
----
-
-### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajratangm&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajratangm&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajratangm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajratangm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 🌐 Let's Connect
-Feel free to reach out to me:
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajratangm-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajratangm)
-[![Twitter](https://img.shields.io/badge/Twitter-@rajratangm-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/rajratangm)
-[![Email](https://img.shields.io/badge/Email-rajratangm%40email.com-D14836?logo=gmail&logoColor=white)](mailto:rajratangm@email.com)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### ✨ Quote of the Day
-> "The best way to predict the future is to create it." – **Peter Drucker**
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### 📝 Featured Projects
-Here are some of the exciting projects I’ve been working on:
+###
 
-- 🚀 [**Project 1**](https://github.com/rajratangm/project1): Brief description of the project.
-- 🛠️ [**Project 2**](https://github.com/rajratangm/project2): Brief description of the project.
-- 📊 [**Project 3**](https://github.com/rajratangm/project3): Brief description of the project.
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/rajratangm/rajratangm/output/snake.svg" alt="Snake animation" />
 
-💬 **Thank you for visiting my profile!** Don’t forget to ⭐️ some repositories and let’s connect! 😄
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rajratangm/count.svg?"  />
+</div>
+
+###
